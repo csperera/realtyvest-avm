@@ -1,4 +1,4 @@
-﻿# RealtyVest AVM
+﻿# Realtyvest AVM
 
 **Automated Valuation Model for Dallas-Fort Worth Real Estate Market**
 
@@ -72,7 +72,6 @@ Data Pipeline → Feature Engineering → ML Model → Predictions
 
 ## 🚀 Quick Start
 
-\\\ash
 # Clone the repo
 git clone https://github.com/csperera/realtyvest-avm.git
 cd realtyvest-avm
@@ -83,7 +82,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
-\\\
 
 ## 🎓 Methodology
 
@@ -117,7 +115,7 @@ MIT License - See LICENSE file
 
 ## 👤 Author
 
-**Chris Perera**
+**Christian Perera**
 - Real estate investor with 30+ years experience
 - Building tools to democratize property analysis
 
