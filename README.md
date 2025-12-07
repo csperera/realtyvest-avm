@@ -14,13 +14,11 @@ Build a production-grade Automated Valuation Model that achieves **<5% Median Ab
 
 ## 🏗️ Architecture
 
-\\\
-Data Pipeline → Feature Engineering → ML Model → Predictions
-     ↓                ↓                   ↓            ↓
-  Scraper         Spatial           LightGBM      Dashboard
-  (Redfin)        Temporal          XGBoost       (Streamlit)
-                  Economic
-\\\
+|Data Pipeline → Feature Engineering → ML Model → Predictions    |
+|     ↓                ↓                   ↓            ↓        |
+|  Scraper         Spatial           LightGBM      Dashboard     |
+|  (Redfin)        Temporal          XGBoost       (Streamlit)   | 
+|                  Economic                                      |
 
 ## 📊 Current Status
 
