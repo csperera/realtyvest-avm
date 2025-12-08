@@ -60,13 +60,20 @@ Data Pipeline → Feature Engineering → ML Model → Predictions
 
 ## 📂 Project Structure
 
-- **config/** - Configuration files (config.yaml, dfw_zips.yaml)
-- **src/data/scrapers/** - Web scraping pipeline
-- **src/features/** - Feature engineering (coming soon)
-- **src/models/** - ML models (coming soon)
-- **src/utils/** - Helper functions
-- **notebooks/** - Jupyter exploration
-- **tests/** - Unit tests
+```
+realtyvest-avm/
+├── config/              # Configuration files
+│   ├── config.yaml
+│   └── dfw_zips.yaml   # 175+ DFW ZIP codes
+├── src/
+│   ├── data/           # Data acquisition
+│   │   └── scrapers/
+│   ├── features/       # Feature engineering
+│   ├── models/         # ML models
+│   └── utils/          # Helper functions
+├── notebooks/          # Exploration
+└── tests/              # Unit tests
+```
 
 
 ## 🚀 Quick Start
