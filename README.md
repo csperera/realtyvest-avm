@@ -10,7 +10,7 @@
 
 ## 🎯 Project Goal
 
-Build a production-grade Automated Valuation Model that achieves **<5% Median Absolute Error** on DFW residential properties, beating Zillow's ~7% benchmark.
+Built a production-grade Automated Valuation Model that achieves **<5% Median Absolute Error** on DFW residential properties, beating Zillow's ~7% benchmark.
 
 ## 🏗️ Architecture
 ```
