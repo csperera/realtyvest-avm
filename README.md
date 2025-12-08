@@ -78,15 +78,15 @@ realtyvest-avm/
 
 ## 🚀 Quick Start
 
-# Clone the repo
+### Clone the repo
 git clone https://github.com/csperera/realtyvest-avm.git
 cd realtyvest-avm
 
-# Create virtual environment
+### Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
 ## 🎓 Methodology
